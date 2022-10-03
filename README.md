@@ -6,7 +6,9 @@ This is a ReactJs App. On this api, you can get Gif previews with gif search
 
 ## Instalation
 
-* Run `npm i`
+1. Run `npm i`
+2. Create token for **API** at https://developers.giphy.com
+3. On .env file, replace `your_token` with the token created on the previous step
 
 ## Running the app
 
