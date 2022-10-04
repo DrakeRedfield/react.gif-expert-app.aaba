@@ -18,6 +18,12 @@ $ npm run build
 
 # development mode
 $ npm run dev
+
+# run test
+$ npm run test
+
+# run test on watch mode
+$ npm run test-watch
 ```
 
 ## Previews
