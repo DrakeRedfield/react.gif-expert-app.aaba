@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gif Card Testing should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Uncharted"
+      src="https://mock.url.test/testing-url"
+    />
+    <p>
+      Uncharted
+    </p>
+  </div>
+</div>
+`;
